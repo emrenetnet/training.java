@@ -13,6 +13,3 @@ Gemiler bitişik olamaz.<br/>
 Düzeltmeler<br/>
 Keyboard nesnesi tanımlı değildi. Keyboard nesnesini Scanner sınıfından oluşturdum.<br/>
 Scanner Keyboard = new Scanner (System.in);<br/>
-
-Amicable Numbers
-x ile y sıfırdan büyük iki tam sayı olmak üzere, eğer x'in kendisi hariç tüm bölenlerinin toplamı y'ye eşit ise y'nin kendisi hariç tüm bölenlerinin toplamı x'e eşit ise, xile y amicable sayılardır. 
