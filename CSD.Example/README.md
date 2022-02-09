@@ -5,7 +5,7 @@ Bir ile doksan arasında sayıların arasından altmış adet sayı seçilir. Ü
 
 Amiral Battı Oyunu (kaynak kod sağlayıcı Ali Vefa Serçe eğitmenimize teşekkür ederim.)
   
-  Oyun 10x10 matriste oynanıyor.
+  Oyun 10x10 matriste oynanıyor.<br/>
   Birlik, ikilik, üçlük, dörtlük olmak üzere dört farklı boyutta gemi vardır. 
   Birlik gemiden dört tane, ikilik gemiden üç tane, üçlük gemiden iki tane, dörtlük gemiden bir tane vardır.
   Gemiler rastgele yerleştiriliyor.
