@@ -13,3 +13,9 @@ Gemiler bitişik olamaz.<br/>
 Düzeltmeler<br/>
 Keyboard nesnesi tanımlı değildi. Keyboard nesnesini Scanner sınıfından oluşturdum.<br/>
 Scanner Keyboard = new Scanner (System.in);<br/>
+
+Mayın Tarlası Oyunu<br/>
+Oyun 10x10'luk matris ile oynanıyor.<br/>
+Program üç temel bölümden oluşur. Birinci bölümde oyun alanına rastgele yirmibeş mayın yerleştiriliyor. İkinci bölümde mayın olmayan hücrelerin etrafındaki mayınlar sayılıyor, bu hücrelere yazılıyor. Üçüncü bölümde ise oyun oynanıyor. <br/>
+Oyuncunun hamleleri ikinci bir matriste tutuluyor. <br/>
+
